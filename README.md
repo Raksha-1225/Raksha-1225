@@ -17,10 +17,8 @@
 ```yaml
 name: Sri Raksha S
 role: Computer Science Engineering Student
-education: B.E. CSE, Dr. N.G.P. Institute of Technology, Coimbatore (2023 - 2027)
-focus: MERN Stack | Java Backend Development
+focus: MERN Stack | Java Backend Development | AI Developer
 currently_exploring: [REST APIs, Authentication, Deployment, AI/ML Integration]
-languages_spoken: [Tamil, English, Kannada]
 ```
 
 - 🔭 Currently strengthening backend architecture, authentication & deployment skills
