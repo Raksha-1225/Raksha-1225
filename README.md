@@ -29,7 +29,7 @@ currently_exploring: [REST APIs, Authentication, Deployment, AI/ML Integration]
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,express,mongodb,html,css,bootstrap,spring,django,mysql,git,github,vscode,idea,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,express,mongodb,html,css,bootstrap,spring,django,mysql,git,github,vscode&perline=8" />
 </p>
 
 <details>
@@ -41,7 +41,7 @@ currently_exploring: [REST APIs, Authentication, Deployment, AI/ML Integration]
 | **Languages** | Java, Python, JavaScript |
 | **Frontend** | HTML, CSS, JavaScript, React.js, Bootstrap |
 | **Backend Frameworks** | Spring Boot, Express.js, Django |
-| **Databases** | SQL, MySQL, MongoDB |
+| **Databases** | SQL, MongoDB |
 | **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, Sublime Text, Canva |
 | **Core CS** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
 
