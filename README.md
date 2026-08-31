@@ -24,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Raksha-1225&label=Profile%20Views&color=6C63FF&style=flat-square" />
+ 
 
 </div>
 
@@ -177,14 +177,7 @@
 **Tech Stack:**
 
 `Python` `Django` `NLP`
-
----
-
  
-
- 
-
----
 
 ### 🛡️ GitGuard AI
 
@@ -208,40 +201,9 @@
 
 </div>
 
----
+ 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Raksha-1225&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Raksha-1225/Raksha-1225/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raksha-1225&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
+ 
 <!-- ===================== CODING ===================== -->
 
 ## 🧠 Problem Solving
