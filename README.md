@@ -23,8 +23,6 @@ currently_exploring: [REST APIs, Authentication, Deployment, AI/ML Integration]
 
 - 🔭 Currently strengthening backend architecture, authentication & deployment skills
 - 🌱 Growing into AI-powered application development (RAG, LLM-based tools)
-- 💬 Ask me about React.js, Java, Spring Boot, or Express.js
-- ⚡ Fun fact: I've built everything from a resume analyzer to a driver-verification safety system
 
 <br>
 
