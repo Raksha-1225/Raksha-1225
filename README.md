@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sri Raksha S</h1>
-<h3 align="center">Full-Stack (MERN) & Java Backend Developer | CSE Student</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Sri%20Raksha%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20(MERN)%20%26%20Java%20Backend%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+MERN;Exploring+AI-powered+applications;Java+%7C+Spring+Boot+%7C+DSA+enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+full-stack+web+apps+with+MERN;Architecting+REST+APIs+with+Java+%26+Spring+Boot;Exploring+AI-powered+applications;Solving+DSA+problems+one+day+at+a+time;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,59 +10,96 @@
   <a href="https://github.com/Raksha-1225"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 About Me
-- 🎓 CSE undergrad @ Dr. N.G.P. Institute of Technology, Coimbatore (2023–2027)
-- 💻 Focused on **MERN Stack** and **Java Backend Development**
-- 🧠 Currently deepening skills in REST APIs, authentication & deployment
-- 🌱 Exploring AI/ML integration into full-stack applications
+## 🚀 About Me
 
----
+```yaml
+name: Sri Raksha S
+role: Computer Science Engineering Student
+education: B.E. CSE, Dr. N.G.P. Institute of Technology, Coimbatore (2023 - 2027)
+focus: MERN Stack | Java Backend Development
+currently_exploring: [REST APIs, Authentication, Deployment, AI/ML Integration]
+languages_spoken: [Tamil, English, Kannada]
+```
 
-### 🛠️ Tech Stack
+- 🔭 Currently strengthening backend architecture, authentication & deployment skills
+- 🌱 Growing into AI-powered application development (RAG, LLM-based tools)
+- 💬 Ask me about React.js, Java, Spring Boot, or Express.js
+- ⚡ Fun fact: I've built everything from a resume analyzer to a driver-verification safety system
+
+<br>
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,idea,spring&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,express,mongodb,html,css,bootstrap,spring,django,mysql,git,github,vscode,idea,figma&perline=9" />
 </p>
+
+<details>
+<summary>📋 Full skill breakdown</summary>
+<br>
+
+| Category | Skills |
+|---|---|
+| **Languages** | Java, Python, JavaScript |
+| **Frontend** | HTML, CSS, JavaScript, React.js, Bootstrap |
+| **Backend Frameworks** | Spring Boot, Express.js, Django |
+| **Databases** | SQL, MySQL, MongoDB |
+| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, Sublime Text, Canva |
+| **Core CS** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+
+</details>
+
+<br>
+
+## 📌 Featured Projects
+
+### 🤖 AI Code Reviewer
+> AI-powered tool that automatically reviews submitted code, flags bugs, suggests refactors, and checks adherence to best practices — cutting down manual code review time.
+- Built an interactive frontend for submitting code snippets and viewing structured review feedback
+- Integrated an LLM-based review engine to generate contextual, actionable suggestions
+- Designed a backend service to handle code parsing, review requests, and response formatting
+
+`React.js` `Node.js` `Express.js` `LLM Integration`
 
 ---
 
-### 📌 Featured Projects
+### 📄 Enterprise SOP Agent
+> AI-powered document Q&A system that processes large SOP files and returns accurate answers to natural language queries, significantly reducing manual document search time.
+- Developed the frontend using HTML, CSS, JavaScript, and React.js for a clean, responsive UI
+- Architected a REST API backend using Node.js and Express.js
+- Used MongoDB for document metadata and session storage
 
-**🤖 AI Code Reviewer**  
-AI-powered tool that analyzes code submissions and returns automated review feedback — flags bugs, suggests refactors, and checks style/best practices.  
-`Node.js` `Express.js` `React.js` `LLM API`
-
-**📄 Enterprise SOP Agent**  
-AI document Q&A system parsing large SOP files to return accurate answers to natural language queries, cutting manual document search time.  
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-**🔍 Resume Analyzer & Skill Gap Detector**  
-Full-stack app that parses resumes, compares them to job descriptions, and generates personalized skill gap reports.  
+---
+
+### 🔍 Resume Analyzer & Skill Gap Detector
+> Full-stack web app that parses uploaded resumes, compares them against target job descriptions, and generates a personalized skill gap report with learning recommendations.
+- Built an interactive frontend using HTML, CSS, and JavaScript
+- Implemented backend logic in Python using the Django framework to extract and analyze resume content
+- Presented the project as a paper at Kongu Engineering College (2025)
+
 `Django` `Python` `HTML/CSS/JS`
 
----
+<br>
 
-### 💼 Experience
-- **Web Development Intern** — Zaalima Development Pvt. Ltd. (MERN Stack)
-- **Web Development Intern** — Mist Software Solutions Pvt. Ltd. (PHP/MySQL)
+## 💼 Experience
 
----
+**Web Development Intern — Zaalima Development Pvt. Ltd.** *(Virtual)* — Feb 2026 to May 2026
+- Built and delivered web application features using the MERN Stack in a remote team environment
+- Integrated AI-assisted development workflows to accelerate feature implementation and improve code quality
+- Completed a 3-month engagement covering full-stack development using AI
 
-### 📊 GitHub Stats
+**Web Development Intern — Mist Software Solutions Pvt. Ltd.** *(Onsite)* — May 2025 to June 2025
+- Cloned and developed a live web application as part of structured practical training
+- Built responsive frontend pages using HTML, CSS, JavaScript, and Bootstrap
+- Implemented backend functionality using PHP and MySQL, including form handling and dynamic content rendering
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raksha-1225&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-1225&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raksha-1225&theme=tokyonight&hide_border=true" />
-</p>
+ 
+<br>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raksha-1225&style=flat-square&color=blue" alt="profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=120&section=footer" />
