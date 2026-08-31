@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Sri%20Raksha%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20(MERN)%20%26%20Java%20Backend%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=180&section=header&text=Sri%20Raksha%20S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+full-stack+web+apps+with+MERN;Architecting+REST+APIs+with+Java+%26+Spring+Boot;Exploring+AI-powered+applications;Solving+DSA+problems+one+day+at+a+time;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
